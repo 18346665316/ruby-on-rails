@@ -1,0 +1,3 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+#古剑的作用是为了测试数据库提供实例数据，违背　了唯一性．
+
